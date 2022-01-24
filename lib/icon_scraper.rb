@@ -132,6 +132,32 @@ module IconScraper
     end
   end
 
+  def self.scrape_html(base_url, query, agent)
+    query.delete(:o)
+    query = query.to_query
+
+    page = agent.get("#{base_url}?#{query}")
+
+    page.search(".result").each do |record|
+      council_reference = record.at("a").inner_text.to_s
+      info_url = record.at("a").attribute("href").to_s
+      address = record.at("strong").inner_text.to_s
+      
+      inner_div = record.search("div").first.to_s.split("\n")
+      date_received = inner_div[9].strip.split("<br>").first
+      description = inner_div[3].strip.split("<br>")[1]
+
+      record = {}
+      record["council_reference"] = council_reference
+      record["description"] = description
+      record["date_received"] = Date.parse(date_received).to_s rescue "N/A"
+      record["address"] = address
+      record["date_scraped"] = Date.today.to_s
+      record["info_url"] = info_url
+      yield record
+    end
+  end
+
   def self.save(record)
     log(record)
     ScraperWiki.save_sqlite(["council_reference"], record)
