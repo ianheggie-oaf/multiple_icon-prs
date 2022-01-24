@@ -91,7 +91,7 @@ module IconScraper
     },
     northern_beaches: {
       url: "https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track",
-      period: "last14days",
+      period: "thismonth",
       types: ["DevApp"]
     },
     penrith: {
