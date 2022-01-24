@@ -35,8 +35,14 @@ module IconScraper
     Page::TermsAndConditions.agree(doc, agent) if Page::TermsAndConditions.on?(doc)
     params = { d: period, k: "LodgementDate", o: "xml" }
     params[:t] = types.join(",") if types
-    rest_xml(url, params, agent) do |record|
-      yield record
+    begin
+      rest_xml(url, params, agent) do |record|
+        yield record
+      end
+    rescue StandardError
+      scrape_html(url, params, agent) do |record|
+        yield record
+      end
     end
   end
 
