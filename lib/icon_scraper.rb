@@ -153,6 +153,7 @@ module IconScraper
       inner_div = record.search("div").first.to_s.split("\n")
       date_received = inner_div[9].strip.split("<br>").first
       description = inner_div[3].strip.split("<br>")[1]
+      description = description.split('-')[1].strip if description.include?('-')
 
       record = {}
       record["council_reference"] = council_reference
