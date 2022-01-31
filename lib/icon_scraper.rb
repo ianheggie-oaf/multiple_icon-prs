@@ -96,6 +96,7 @@ module IconScraper
       end
 
       address = clean_whitespace(line1.inner_text) if !line1.is_a?(String) # to avoid calling .inner_text on a string
+      address = line1 if line1.is_a?(String)
       unless line2.nil? || line2.inner_text.empty?
         address += ", " + clean_whitespace(line2.inner_text)
       end
