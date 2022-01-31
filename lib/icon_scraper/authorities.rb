@@ -35,11 +35,6 @@ module IconScraper
       url: "http://eplanning.whitsundayrc.qld.gov.au/Pages/XC.Track",
       period: "last28days"
     },
-    gosford: {
-      url: "https://plan.s.centralcoast.nsw.gov.au/Pages/XC.Track",
-      period: "last14days",
-      ssl_verify: false
-    },
     cumberland: {
       url: "https://cumberland-eplanning.t1cloud.com/Pages/XC.Track",
       period: "last14days"
@@ -91,7 +86,7 @@ module IconScraper
     },
     northern_beaches: {
       url: "https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track",
-      period: "last14days",
+      period: "thismonth",
       types: ["DevApp"]
     },
     penrith: {

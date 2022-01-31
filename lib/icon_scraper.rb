@@ -35,8 +35,14 @@ module IconScraper
     Page::TermsAndConditions.agree(doc, agent) if Page::TermsAndConditions.on?(doc)
     params = { d: period, k: "LodgementDate", o: "xml" }
     params[:t] = types.join(",") if types
-    rest_xml(url, params, agent) do |record|
-      yield record
+    begin
+      rest_xml(url, params, agent) do |record|
+        yield record
+      end
+    rescue StandardError
+      scrape_html(url, params, agent) do |record|
+        yield record
+      end
     end
   end
 
@@ -141,6 +147,34 @@ module IconScraper
       #   record["on_notice_to"] = Date.parse(e.parent.at("DateDue").inner_text).to_s
       # end
 
+      yield record
+    end
+  end
+
+  def self.scrape_html(base_url, query, agent)
+    query.delete(:o)
+    query = query.to_query
+
+    page = agent.get("#{base_url}?#{query}")
+
+    page.search(".result").each do |record|
+      council_reference = record.at("a").inner_text.to_s
+      info_url = record.at("a").attribute("href").to_s
+      info_url = base_url + "/" + info_url
+      address = record.at("strong").inner_text.to_s
+      
+      inner_div = record.search("div").first.to_s.split("\n")
+      date_received = inner_div[9].strip.split("<br>").first
+      description = inner_div[3].strip.split("<br>")[1]
+      description = description.split('-')[1].strip if description.include?('-')
+
+      record = {}
+      record["council_reference"] = council_reference
+      record["description"] = description
+      record["date_received"] = Date.parse(date_received).to_s rescue "N/A"
+      record["address"] = address
+      record["date_scraped"] = Date.today.to_s
+      record["info_url"] = info_url
       yield record
     end
   end
