@@ -82,6 +82,18 @@ module IconScraper
           line2 = properties.first.at("Line2")
           line3 = properties.first.at("Line3")
         end
+        # If empty check in a different location (this is specific to penrith council)
+        if properties.empty?
+          desc = application.search("Assess").search("Description")
+          desc.inner_text.split("|").each do |desc_item|
+            if desc_item.is_a?(String)
+              if desc_item =~ /([A-Z]{3})\s([0-9]{4})/ # matches `NSW 2753`
+                line1 = desc_item
+              end
+            end
+          end
+          
+        end
       end
 
       if line1.nil?
@@ -89,7 +101,8 @@ module IconScraper
         next
       end
 
-      address = clean_whitespace(line1.inner_text)
+      address = clean_whitespace(line1.inner_text) if !line1.is_a?(String) # to avoid calling .inner_text on a string
+      address = line1 if line1.is_a?(String)
       unless line2.nil? || line2.inner_text.empty?
         address += ", " + clean_whitespace(line2.inner_text)
       end
