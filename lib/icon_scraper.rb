@@ -147,6 +147,7 @@ module IconScraper
     page.search(".result").each do |record|
       council_reference = record.at("a").inner_text.to_s
       info_url = record.at("a").attribute("href").to_s
+      info_url = base_url + "/" + info_url
       address = record.at("strong").inner_text.to_s
       
       inner_div = record.search("div").first.to_s.split("\n")
