@@ -1,411 +1,769 @@
 ---
-- council_reference: DA2019/0525
-  description: Construction of a dwelling house and a secondary dwelling
-  date_received: '2019-05-27'
-  address: 1 Roselands Avenue, FRENCHS FOREST NSW 2086
+- council_reference: DA2021/2039
+  description: Construction of a dwelling house including a swimming pool
+  date_received: '2022-01-17'
+  address: '70 A Willandra Road NARRAWEENA NSW 2099 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1660839
-- council_reference: DA2019/0526
-  description: Construction of a garage
-  date_received: '2019-05-27'
-  address: 7 Arthur Street, FAIRLIGHT NSW 2094
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661065
-- council_reference: DA2019/0527
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2037600
+- council_reference: DA2021/2229
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-27'
-  address: 13 A Kitchener Street, BALGOWLAH NSW 2093
+  date_received: '2022-01-14'
+  address: '23 Courtley Road BEACON HILL NSW 2100 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661149
-- council_reference: DA2019/0528
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2046095
+- council_reference: DA2021/2392
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-27'
-  address: 11 Patanga Road, FRENCHS FOREST NSW 2086
+  date_received: '2022-01-06'
+  address: '97  Florida Road PALM BEACH NSW 2108 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661167
-- council_reference: DA2019/0529
-  description: Alterations and additions to a dwelling house including construction
-    of a secondary dwelling
-  date_received: '2019-05-28'
-  address: 2 Buyuma Place, AVALON BEACH NSW 2107
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2054917
+- council_reference: DA2021/2401
+  description: Alterations and additions to a dwelling house including an outbuilding
+  date_received: '2022-01-12'
+  address: '5 Myoora Road TERREY HILLS NSW 2084 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661355
-- council_reference: DA2019/0532
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2054928
+- council_reference: DA2021/2416
+  description: Partial demolition of the existing dwelling and the construction of
+    a new dwelling with a detached studio and swimming pool
+  date_received: '2022-01-10'
+  address: '155  Pacific Road PALM BEACH NSW 2108 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2054947
+- council_reference: DA2021/2444
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-28'
-  address: 2 Prescott Avenue, NARRAWEENA NSW 2099
+  date_received: '2022-01-06'
+  address: '20 Akora Street FRENCHS FOREST NSW 2086 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661570
-- council_reference: DA2019/0534
-  description: Construction of a swimming pool and inclinator
-  date_received: '2019-05-28'
-  address: 271 Whale Beach Road, WHALE BEACH NSW 2107
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661619
-- council_reference: DA2019/0535
-  description: Construction of a swimming pool
-  date_received: '2019-05-28'
-  address: 16 Iluka Avenue, ELANORA HEIGHTS NSW 2101
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661629
-- council_reference: DA2019/0536
-  description: Conversion of existing storeroom to a secondary dwelling
-  date_received: '2019-05-28'
-  address: 66 Rednal Street, MONA VALE NSW 2103
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661681
-- council_reference: DA2019/0537
-  description: Construction of a dwelling house including swimming pool
-  date_received: '2019-05-28'
-  address: 23 A McCarrs Creek Road, CHURCH POINT NSW 2105
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661773
-- council_reference: DA2019/0538
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2055545
+- council_reference: DA2021/2458
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-29'
-  address: 31 A Parr Avenue, NORTH CURL CURL NSW 2099
+  date_received: '2022-01-10'
+  address: '11 Neridah Avenue BELROSE NSW 2085 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1661921
-- council_reference: DA2019/0539
-  description: Construction of a carport
-  date_received: '2019-05-29'
-  address: 6 Daisy Street, NORTH BALGOWLAH NSW 2093
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662082
-- council_reference: DA2019/0540
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2057666
+- council_reference: DA2021/2460
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-29'
-  address: 67 Samuel Street, MONA VALE NSW 2103
+  date_received: '2022-01-17'
+  address: '90 Fuller Street COLLAROY PLATEAU NSW 2097 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662167
-- council_reference: DA2019/0541
-  description: Demolition Works and construction of a dwelling house and swimming
-    pool
-  date_received: '2019-05-29'
-  address: 2 Ellery Parade, SEAFORTH NSW 2092
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2057729
+- council_reference: DA2021/2461
+  description: Construction of a dwelling house
+  date_received: '2022-01-10'
+  address: '152 Bantry Bay Road FRENCHS FOREST NSW 2086 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662206
-- council_reference: DA2019/0542
-  description: Construction of a privacy screen
-  date_received: '2019-05-29'
-  address: 296 Whale Beach Road, PALM BEACH NSW 2108
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662211
-- council_reference: DA2019/0543
-  description: Alterations and additions to existing dual occupancy
-  date_received: '2019-05-29'
-  address: 1 / 236 Sydney Road, FAIRLIGHT NSW 2094
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662270
-- council_reference: DA2019/0544
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2057752
+- council_reference: DA2021/2462
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-29'
-  address: 6 Ross Street, SEAFORTH NSW 2092
+  date_received: '2022-01-06'
+  address: '159  Riverview Road AVALON BEACH NSW 2107 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662303
-- council_reference: DA2019/0545
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2057765
+- council_reference: DA2021/2469
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-29'
-  address: 49 Wakehurst Parkway, SEAFORTH NSW 2092
+  date_received: '2022-01-10'
+  address: '79 Parkes Road COLLAROY PLATEAU NSW 2097 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662317
-- council_reference: DA2019/0546
-  description: "<insert details>"
-  date_received: '2019-05-29'
-  address: 62 Old Barrenjoey Road, AVALON BEACH NSW 2107
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662342
-- council_reference: DA2019/0547
-  description: Alterations and additions to a semi-detached dwelling
-  date_received: '2019-05-29'
-  address: 58 Alexander Street, MANLY NSW 2095
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662367
-- council_reference: DA2019/0548
-  description: Construction of a swimming pool
-  date_received: '2019-05-30'
-  address: 152 Narrabeen Park Parade, MONA VALE NSW 2103
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662713
-- council_reference: DA2019/0549
-  description: Construction of a swimming pool
-  date_received: '2019-05-30'
-  address: 17 Marshall Crescent, BEACON HILL NSW 2100
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662803
-- council_reference: DA2019/0550
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2057867
+- council_reference: DA2021/2476
   description: Alterations and additions to a dwelling house including a swimming
     pool
-  date_received: '2019-05-30'
-  address: 63 Beacon Avenue, BEACON HILL NSW 2100
+  date_received: '2022-01-04'
+  address: '1065  Barrenjoey Road PALM BEACH NSW 2108 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1662812
-- council_reference: DA2019/0551
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058174
+- council_reference: DA2021/2479
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-31'
-  address: 21 A Central Road, AVALON BEACH NSW 2107
+  date_received: '2022-01-10'
+  address: '24  Fromelles Avenue SEAFORTH NSW 2092 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663071
-- council_reference: DA2019/0552
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058190
+- council_reference: DA2021/2485
+  description: Construction of a spa pool
+  date_received: '2022-01-04'
+  address: '13  Monash Crescent CLONTARF NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058477
+- council_reference: DA2021/2487
+  description: Use of Premises as a medical centre
+  date_received: '2022-01-14'
+  address: '33 Oaks Avenue DEE WHY NSW 2099 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058509
+- council_reference: DA2021/2489
   description: Alterations and additions to a dwelling house
-  date_received: '2019-05-31'
-  address: 10 Stirling Place, BELROSE NSW 2085
+  date_received: '2022-01-11'
+  address: '2 A Kennedy Place BAYVIEW NSW 2104 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663360
-- council_reference: DA2019/0553
-  description: Construction of a carport
-  date_received: '2019-05-31'
-  address: 74 - 74 Wood Street, MANLY NSW 2095
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058571
+- council_reference: DA2021/2490
+  description: Construction of a dwelling house
+  date_received: '2022-01-04'
+  address: '34  Plateau Road BILGOLA PLATEAU NSW 2107 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663406
-- council_reference: DA2019/0554
-  description: Construction of a carport
-  date_received: '2019-05-31'
-  address: 72 Wood Street, MANLY NSW 2095
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058586
+- council_reference: DA2021/2491
+  description: Use of Premises (Unit i) for light industry including fitout and signage
+  date_received: '2022-01-04'
+  address: '77  Bassett Street MONA VALE NSW 2103 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663413
-- council_reference: DA2019/0555
-  description: Consolidation of two lots into one, demolition of one dwelling and
-    the construction of a new dwelling, including the retention of a significant portion
-    of one existing dwelling
-  date_received: '2019-05-31'
-  address: 23 Collingwood Street, MANLY NSW 2095
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058600
+- council_reference: DA2021/2502
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-12'
+  address: '56 Little Willandra Road CROMER NSW 2099 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663512
-- council_reference: DA2019/0556
-  description: Construction of a dwelling house and secondary dwelling
-  date_received: '2019-06-03'
-  address: 88 Lascelles Road, NARRAWEENA NSW 2099
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058757
+- council_reference: DA2021/2503
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-10'
+  address: '40 Surfers Parade FRESHWATER NSW 2096 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663680
-- council_reference: DA2019/0557
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058772
+- council_reference: DA2021/2507
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-14'
+  address: '19  Cutler Road CLONTARF NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2058891
+- council_reference: DA2021/2511
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-04'
+  address: '89 Ballyshannon Road KILLARNEY HEIGHTS NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059075
+- council_reference: DA2021/2514
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-10'
+  address: '17 Drumcliff Avenue KILLARNEY HEIGHTS NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059113
+- council_reference: DA2021/2515
   description: Demolition works and construction of a dwelling house
-  date_received: '2019-06-03'
-  address: 7 Brighton Street, CURL CURL NSW 2096
+  date_received: '2022-01-14'
+  address: '15 Bridgeview Crescent FORESTVILLE NSW 2087 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663745
-- council_reference: DA2019/0558
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059137
+- council_reference: DA2021/2520
   description: Alterations and additions to a dwelling house
-  date_received: '2019-06-03'
-  address: 12 Quirk Street, DEE WHY NSW 2099
+  date_received: '2022-01-04'
+  address: '8 Mortain Avenue ALLAMBIE HEIGHTS NSW 2100 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1663897
-- council_reference: DA2019/0559
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059249
+- council_reference: DA2021/2523
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-06'
+  address: '46  Carefree Road NORTH NARRABEEN NSW 2101 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059275
+- council_reference: DA2021/2525
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-04'
+  address: '16 Maranui Avenue DEE WHY NSW 2099 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059326
+- council_reference: DA2021/2530
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-06'
+  address: '19 Tor Road DEE WHY NSW 2099 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059398
+- council_reference: DA2021/2534
+  description: Change of use to a group home
+  date_received: '2022-01-19'
+  address: '13 Nambucca Road TERREY HILLS NSW 2084 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059429
+- council_reference: DA2021/2544
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-14'
+  address: '5  Buyuma Place AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059586
+- council_reference: DA2021/2545
+  description: Use of Premises as a home business
+  date_received: '2022-01-14'
+  address: '25  Spring Cove Avenue MANLY NSW 2095 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059639
+- council_reference: DA2021/2547
+  description: Construction of a swimming pool
+  date_received: '2022-01-04'
+  address: '1  Norma Road PALM BEACH NSW 2108 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059695
+- council_reference: DA2021/2550
+  description: Alterations and additions to a dwelling house including a driveway
+    and hardstand parking area
+  date_received: '2022-01-06'
+  address: '29 Palomar Parade FRESHWATER NSW 2096 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059780
+- council_reference: DA2021/2551
+  description: Construction of a swimming pool, pergola, cabana and deck
+  date_received: '2022-01-19'
+  address: '22  Wandeen Road CLAREVILLE NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059828
+- council_reference: DA2021/2552
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-14'
+  address: '81 Essilia Street COLLAROY PLATEAU NSW 2097 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059858
+- council_reference: DA2021/2554
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-04'
+  address: '39  Heathcliff Crescent BALGOWLAH HEIGHTS NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059880
+- council_reference: DA2021/2555
+  description: Alterations and additions to a dwelling house including a boat shed
+    and seawall
+  date_received: '2022-01-04'
+  address: '80  Hudson Parade CLAREVILLE NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059925
+- council_reference: DA2021/2556
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-04'
+  address: '49  Careel Head Road AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059970
+- council_reference: DA2021/2557
+  description: Alterations and additions to a dwelling house including carports
+  date_received: '2022-01-04'
+  address: '1 A Elvina Avenue AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2059985
+- council_reference: DA2021/2558
+  description: Construction of a secondary dwelling
+  date_received: '2022-01-04'
+  address: '5 Normandy Road ALLAMBIE HEIGHTS NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060002
+- council_reference: DA2021/2559
+  description: Demolition works and construction of an industrial building to be used
+    as a motor vehicle showroom and servicing and maintenance of motor vehicles
+  date_received: '2022-01-04'
+  address: '8 Grosvenor Place BROOKVALE NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060681
+- council_reference: DA2021/2562
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-06'
+  address: '19 West Street BALGOWLAH NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060786
+- council_reference: DA2021/2564
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-07'
+  address: '20 Leinster Avenue KILLARNEY HEIGHTS NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060849
+- council_reference: DA2021/2565
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-06'
+  address: '5 Yallumba Close FORESTVILLE NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060875
+- council_reference: DA2021/2566
+  description: Demolition works and construction of a dwelling house and secondary
+    dwelling
+  date_received: '2022-01-10'
+  address: '28 Stuart Street COLLAROY NSW 2097 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060880
+- council_reference: DA2021/2567
+  description: Demolition works, construction of a car park and increase in student
+    numbers at an education establishment
+  date_received: '2022-01-11'
+  address: '60 Federal Parade BROOKVALE NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060910
+- council_reference: DA2021/2569
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-06'
+  address: '19  The Outlook BILGOLA PLATEAU NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060981
+- council_reference: DA2021/2570
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-07'
+  address: '7 Rounce Avenue FORESTVILLE NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2060996
+- council_reference: DA2021/2571
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-06'
+  address: '21 Heather Street WHEELER HEIGHTS NSW 2097 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061007
+- council_reference: DA2021/2573
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-04'
+  address: '22 A Connemara Avenue KILLARNEY HEIGHTS NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061089
+- council_reference: DA2021/2576
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-06'
+  address: '11 Kalaui Street NORTH BALGOWLAH NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061249
+- council_reference: DA2021/2578
+  description: Alterations and additions to a residential flat building
+  date_received: N/A
+  address: '1 / 95 Queenscliff Road QUEENSCLIFF NSW 2096 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061354
+- council_reference: DA2021/2579
+  description: Construction of a swimming pool
+  date_received: '2022-01-06'
+  address: '87  Wimbledon Avenue NORTH NARRABEEN NSW 2101 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061449
+- council_reference: DA2021/2580
+  description: Construction of a dwelling house on proposed lot 7
+  date_received: '2022-01-11'
+  address: '10  Fern Creek Road WARRIEWOOD NSW 2102 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061460
+- council_reference: DA2021/2582
+  description: Alterations and additions to a dwelling house including a swimming
+    pool and secondary dwelling
+  date_received: '2022-01-14'
+  address: '58  Whale Beach Road AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061497
+- council_reference: DA2021/2585
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-25'
+  address: '284  Lower Plateau Road BILGOLA PLATEAU NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061799
+- council_reference: DA2021/2586
+  description: Construction of a dwelling house on Proposed Lot 6
+  date_received: '2022-01-11'
+  address: '10  Fern Creek Road WARRIEWOOD NSW 2102 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061818
+- council_reference: DA2021/2587
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-11'
+  address: '14  Trevor Road NEWPORT NSW 2106 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061843
+- council_reference: DA2021/2588
+  description: Alterations and additions to a residential flat building
+  date_received: N/A
+  address: '1 / 69 Evans Street FRESHWATER NSW 2096 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2061994
+- council_reference: DA2021/2589
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-12'
+  address: '128 Wyadra Avenue NORTH MANLY NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062161
+- council_reference: DA2021/2590
+  description: Construction of a dwelling house
+  date_received: '2022-01-10'
+  address: '40  Pine Street MANLY NSW 2095 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062186
+- council_reference: DA2021/2591
+  description: Use of premises as a business premises (animal grooming parlour), fit
+  date_received: '2022-01-07'
+  address: '330  Sydney Road BALGOWLAH NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062210
+- council_reference: DA2021/2592
+  description: Construction of a dwelling house including swimming pool and a tennis
+    court
+  date_received: '2022-01-14'
+  address: '88 / 0 Eurabba Road DUFFYS FOREST NSW 2084 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062276
+- council_reference: DA2021/2596
+  description: Demolition works and construction of a fence
+  date_received: N/A
+  address: '11  Bruce Street MONA VALE NSW 2103 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062638
+- council_reference: DA2021/2598
+  description: Construction of a secondary dwelling
+  date_received: '2022-01-07'
+  address: '3 Stone Parade DAVIDSON NSW 2085 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062892
+- council_reference: DA2021/2599
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-10'
+  address: '25 Beacon Avenue BEACON HILL NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062960
+- council_reference: DA2021/2600
+  description: Subdivision of land, creek line works and the construction of two (2)
+    residential flat buildings
+  date_received: N/A
+  address: '49  Warriewood Road WARRIEWOOD NSW 2102 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2062980
+- council_reference: DA2021/2602
+  description: Alterations and additions to a dwelling house including a swimming
+    pool, cabana and decking
+  date_received: '2022-01-10'
+  address: '282  Barrenjoey Road NEWPORT NSW 2106 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063112
+- council_reference: DA2021/2605
+  description: Construction of a dwelling house
+  date_received: '2022-01-11'
+  address: '10 Evelyn Place BELROSE NSW 2085 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063286
+- council_reference: DA2021/2612
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-11'
+  address: '4 Coramba Street NORTH BALGOWLAH NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063515
+- council_reference: DA2021/2613
+  description: Demolition works and construction of a dwelling house
+  date_received: '2022-01-11'
+  address: '129 Headland Road NORTH CURL CURL NSW 2099 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063535
+- council_reference: DA2021/2617
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-17'
+  address: '25 Carrington Parade FRESHWATER NSW 2096 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063560
+- council_reference: DA2021/2618
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-20'
+  address: '32  Pacific Parade MANLY NSW 2095 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063561
+- council_reference: DA2021/2619
+  description: Use of premises as a light industry and associated fit out
+  date_received: '2022-01-19'
+  address: '41 / 4  - 7 Villiers Place CROMER NSW 2099 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063562
+- council_reference: DA2021/2620
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-12'
+  address: '13 Kurrajong Road FRENCHS FOREST NSW 2086 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063596
+- council_reference: DA2021/2621
+  description: Demolition works and construction of a residential flat building
+  date_received: '2022-01-25'
+  address: '27  Nullaburra Road NEWPORT NSW 2106 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063601
+- council_reference: DA2021/2622
+  description: Alterations and additions to a dwelling house including a secondary
+    dwelling and swimming pool
+  date_received: '2022-01-12'
+  address: '65  Hillside Road NEWPORT NSW 2106 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063615
+- council_reference: DA2021/2623
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-11'
+  address: '47  Griffiths Street FAIRLIGHT NSW 2094 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063633
+- council_reference: DA2021/2624
+  description: Construction of a dwelling house
+  date_received: '2022-01-14'
+  address: '122  Riverview Road AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063649
+- council_reference: DA2021/2625
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-12'
+  address: '16 A Ruskin Rowe AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063650
+- council_reference: DA2021/2628
+  description: Alterations and additions to a dwelling house including a parking structure.
+  date_received: '2022-01-17'
+  address: '7 Altona Avenue FORESTVILLE NSW 2087 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063675
+- council_reference: DA2021/2629
+  description: Use of Premises as a Recreational Facility (indoor) and associated
+    internal alterations
+  date_received: '2022-01-14'
+  address: '28 Cross Street BROOKVALE NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063697
+- council_reference: DA2021/2632
+  description: Construction of a Dual Occupancy
+  date_received: '2022-01-14'
+  address: '10  Fern Creek Road WARRIEWOOD NSW 2102 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063715
+- council_reference: DA2021/2633
+  description: Construction of a swimming pool, deck and landscaping works
+  date_received: '2022-01-11'
+  address: '38 Lindley Avenue NARRABEEN NSW 2101 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063716
+- council_reference: DA2021/2635
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-17'
+  address: '12  Kanimbla Crescent BILGOLA PLATEAU NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063718
+- council_reference: DA2021/2636
+  description: Alterations and additions to a dwelling house and conversion of secondary
+    dwelling back into a dwelling house
+  date_received: '2022-01-14'
+  address: '9 South Creek Road DEE WHY NSW 2099 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063721
+- council_reference: DA2021/2637
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-19'
+  address: '32 Lee Road BEACON HILL NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063722
+- council_reference: DA2021/2639
+  description: Demolition works and construction of a dwelling house including a secondary
+    dwelling and swimming pool
+  date_received: '2022-01-14'
+  address: '25  Alleyne Avenue NORTH NARRABEEN NSW 2101 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063731
+- council_reference: DA2021/2640
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-17'
+  address: '35 Coles Road FRESHWATER NSW 2096 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063744
+- council_reference: DA2021/2642
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-14'
+  address: '11  Kuttabul Place ELANORA HEIGHTS NSW 2101 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063759
+- council_reference: DA2021/2644
+  description: Demolition works and construction of a dwelling house including swimming
+    pool
+  date_received: '2022-01-17'
+  address: '1  Tasman Road AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2063773
+- council_reference: DA2021/2646
+  description: Demolition works and construction of a dual occupancy (attached)
+  date_received: '2022-01-11'
+  address: '7  Paris Street BALGOWLAH NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064206
+- council_reference: DA2021/2651
+  description: Demolition works and construction of a dwelling house including a swimming
+    pool and use of an existing outbuilding as a home office/studio
+  date_received: '2022-01-11'
+  address: '92  Riverview Road AVALON BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064272
+- council_reference: DA2021/2653
   description: Alterations and additions to a dwelling house including a secondary
     dwelling
-  date_received: '2019-06-03'
-  address: 10 The Esplanade, NARRABEEN NSW 2101
+  date_received: '2022-01-11'
+  address: '21 Yachtsmans Paradise NEWPORT NSW 2106 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664019
-- council_reference: DA2019/0560
-  description: Construction of a garage
-  date_received: '2019-06-03'
-  address: 147 Forest Way, BELROSE NSW 2085
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064300
+- council_reference: DA2021/2655
+  description: Alterations and additions to a dwelling house including a pool house
+  date_received: '2022-01-14'
+  address: '9  Harvey Street SEAFORTH NSW 2092 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664101
-- council_reference: DA2019/0561
-  description: Construction of a dwelling house including a swimming pool
-  date_received: '2019-06-03'
-  address: 12 Kooloora Avenue, FRESHWATER NSW 2096
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064359
+- council_reference: DA2021/2656
+  description: Alterations and additions to a commercial premises (Woolworths) including
+    re
+  date_received: N/A
+  address: '12 Lagoon Street NARRABEEN NSW 2101 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664341
-- council_reference: DA2019/0562
-  description: Dwelling House
-  date_received: '2019-06-03'
-  address: 1 / 17 - 19 Central Avenue, MANLY NSW 2095
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064420
+- council_reference: DA2021/2657
+  description: Alterations and additions to a dwelling house including a carport
+  date_received: '2022-01-14'
+  address: '55 Victor Road DEE WHY NSW 2099 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664362
-- council_reference: DA2019/0563
-  description: Alterations and additions to a dwelling house and studio including
-    secondary dwelling
-  date_received: '2019-06-03'
-  address: 45 Marine Parade, AVALON BEACH NSW 2107
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664376
-- council_reference: DA2019/0564
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064469
+- council_reference: DA2021/2659
   description: Alterations and additions to a dwelling house
-  date_received: '2019-06-04'
-  address: 30 Blighs Road, CROMER NSW 2099
+  date_received: '2022-01-14'
+  address: '76  Patrick Street AVALON BEACH NSW 2107 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664447
-- council_reference: DA2019/0565
-  description: Dwelling House
-  date_received: '2019-06-04'
-  address: 129 Riverview Road, AVALON BEACH NSW 2107
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064487
+- council_reference: DA2021/2662
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-25'
+  address: '46  Hope Street SEAFORTH NSW 2092 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664482
-- council_reference: DA2019/0566
-  description: Construction of a dwelling house
-  date_received: '2019-06-04'
-  address: 40 Wellman Road, FORESTVILLE NSW 2087
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064524
+- council_reference: DA2021/2665
+  description: Use of Premises (Unit 2) as a vehicle body repair workshop
+  date_received: '2022-01-14'
+  address: '51  - 55  Bassett Street MONA VALE NSW 2103 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664662
-- council_reference: DA2019/0567
-  description: Industry
-  date_received: '2019-06-04'
-  address: 12 B Ponderosa Parade, WARRIEWOOD NSW 2102
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064564
+- council_reference: DA2021/2669
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-19'
+  address: '71 Quirk Street DEE WHY NSW 2099 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664701
-- council_reference: DA2019/0568
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064675
+- council_reference: DA2021/2671
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-12'
+  address: '61 B Wandeen Road CLAREVILLE NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064696
+- council_reference: DA2021/2672
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-11'
+  address: '115  Narrabeen Park Parade MONA VALE NSW 2103 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2064740
+- council_reference: DA2022/0003
+  description: Construction of a swimming pool
+  date_received: '2022-01-19'
+  address: '11 Yulong Avenue TERREY HILLS NSW 2084 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2065723
+- council_reference: DA2022/0005
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-19'
+  address: '21  Moore Street CLONTARF NSW 2093 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2067168
+- council_reference: DA2022/0008
+  description: Alterations and additions to a dwelling house including a carport
+  date_received: '2022-01-14'
+  address: '127 Allambie Road ALLAMBIE HEIGHTS NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2067227
+- council_reference: DA2022/0014
+  description: Alterations and additions to a dwelling house including a carport
+  date_received: '2022-01-19'
+  address: '2 Warekila Road BEACON HILL NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2068146
+- council_reference: DA2022/0015
+  description: Demolition works and construction of a swimming pool and decking
+  date_received: '2022-01-14'
+  address: '15  Wesley Street ELANORA HEIGHTS NSW 2101 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2068156
+- council_reference: DA2022/0016
+  description: Alterations and additions to a dwelling house including a swimming
+    pool
+  date_received: '2022-01-14'
+  address: '429 Pittwater Road NORTH MANLY NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2068312
+- council_reference: DA2022/0019
+  description: Use of Premises as a vehicle sales and hire premises
+  date_received: '2022-01-14'
+  address: '97  Darley Street MONA VALE NSW 2103 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2068773
+- council_reference: DA2022/0020
+  description: Alterations and additions to a semi
+  date_received: '2022-01-25'
+  address: '28  Cliff Street MANLY NSW 2095 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2068791
+- council_reference: DA2022/0023
+  description: Alterations and additions to an attached studio to create a secondary
+    dwelling
+  date_received: '2022-01-14'
+  address: '199  Prince Alfred Parade NEWPORT NSW 2106 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2069606
+- council_reference: DA2022/0029
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-20'
+  address: '220  Whale Beach Road WHALE BEACH NSW 2107 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2070335
+- council_reference: DA2022/0030
+  description: Demolition works and construction of a dual occupancy (attached) including
+    strata subdivision
+  date_received: N/A
+  address: '1 / 19 Queenscliff Road QUEENSCLIFF NSW 2096 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2070373
+- council_reference: DA2022/0032
+  description: Alterations and additions to a dwelling house
+  date_received: '2022-01-19'
+  address: '6 Stephen Street BEACON HILL NSW 2100 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2070392
+- council_reference: DA2022/0033
+  description: Demolition works and construction of a dwelling house
+  date_received: '2022-01-25'
+  address: '30 A Addison Road MANLY NSW 2095 '
+  date_scraped: '2019-05-15'
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2070498
+- council_reference: DA2022/0039
   description: Construction of a carport
-  date_received: '2019-06-04'
-  address: 7 Kens Road, FRENCHS FOREST NSW 2086
+  date_received: '2022-01-19'
+  address: '38  Therry Street AVALON BEACH NSW 2107 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664739
-- council_reference: DA2019/0569
-  description: Strata Subdivision
-  date_received: '2019-06-04'
-  address: 1 Jackson Street, BALGOWLAH NSW 2093
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2071480
+- council_reference: DA2022/0043
+  description: Alterations and additions to a dual occupancy
+  date_received: '2022-01-25'
+  address: '138 Headland Road NORTH CURL CURL NSW 2099 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664831
-- council_reference: DA2019/0570
-  description: Alterations and additions to a dwelling house including secondary dwelling
-    and swimming pool
-  date_received: '2019-06-04'
-  address: 102 Grace Avenue, FORESTVILLE NSW 2087
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664878
-- council_reference: DA2019/0571
-  description: "(insert details)"
-  date_received: '2019-06-04'
-  address: 34 Orlando Road, CROMER NSW 2099
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1664996
-- council_reference: DA2019/0572
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2071675
+- council_reference: DA2022/0044
   description: Alterations and additions to a dwelling house
-  date_received: '2019-06-04'
-  address: 17 Carew Street, DEE WHY NSW 2099
+  date_received: '2022-01-20'
+  address: '201 Headland Road NORTH CURL CURL NSW 2099 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665000
-- council_reference: DA2019/0573
-  description: "<Insert Details>"
-  date_received: '2019-06-05'
-  address: 41 Kangaroo Street, MANLY NSW 2095
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2071740
+- council_reference: DA2022/0045
+  description: Demolition works and construction of a dwelling house including a cabana
+  date_received: '2022-01-25'
+  address: '5  Stanley Street NEWPORT NSW 2106 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665193
-- council_reference: DA2019/0574
-  description: "<Insert Details>"
-  date_received: '2019-06-05'
-  address: 19 - 23 The Corso, MANLY NSW 2095
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665215
-- council_reference: DA2019/0575
-  description: "(Insert Customer's Details)"
-  date_received: '2019-06-05'
-  address: 8 Bilkurra Avenue, BILGOLA PLATEAU NSW 2107
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665431
-- council_reference: DA2019/0576
-  description: "<insert detials>"
-  date_received: '2019-06-05'
-  address: 7 Worrobil Street, NORTH BALGOWLAH NSW 2093
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665572
-- council_reference: DA2019/0577
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2071770
+- council_reference: DA2022/0046
   description: Alterations and additions to a dwelling house
-  date_received: '2019-06-05'
-  address: 36 Victor Road, NARRAWEENA NSW 2099
+  date_received: '2022-01-25'
+  address: '35  Addison Road MANLY NSW 2095 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665579
-- council_reference: DA2019/0578
-  description: Demolition works and construction of a garage
-  date_received: '2019-06-05'
-  address: 17 Golf Parade, MANLY NSW 2095
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2071794
+- council_reference: DA2022/0050
+  description: Construction of a carport
+  date_received: '2022-01-25'
+  address: '21 Cobb Street FRENCHS FOREST NSW 2086 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665625
-- council_reference: DA2019/0579
-  description: Dwelling House
-  date_received: '2019-06-05'
-  address: 69 Ferguson Street, FORESTVILLE NSW 2087
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2072955
+- council_reference: DA2022/0058
+  description: Alterations and additions to a dwelling house, construction of a studio
+    and retaining walls
+  date_received: '2022-01-25'
+  address: '89  Richard Road SCOTLAND ISLAND NSW 2105 '
   date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665694
-- council_reference: DA2019/0580
-  description: "<Insert Details>"
-  date_received: '2019-06-06'
-  address: 167 Plateau Road, BILGOLA PLATEAU NSW 2107
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665894
-- council_reference: DA2019/0581
-  description: insert details
-  date_received: '2019-06-06'
-  address: 200 Forest Way, BELROSE NSW 2085
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665913
-- council_reference: DA2019/0582
-  description: "<insert details>"
-  date_received: '2019-06-06'
-  address: 8 / 118 - 120 Lagoon Street, NARRABEEN NSW 2101
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665914
-- council_reference: DA2019/0583
-  description: "<insert details>"
-  date_received: '2019-06-06'
-  address: 7 / 118 - 120 Lagoon Street, NARRABEEN NSW 2101
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1665951
-- council_reference: DA2019/0584
-  description: "<insert details>"
-  date_received: '2019-06-06'
-  address: 4 Daisy Street, NORTH BALGOWLAH NSW 2093
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666048
-- council_reference: DA2019/0585
-  description: Dwelling House
-  date_received: '2019-06-06'
-  address: 142 Sydney Road, FAIRLIGHT NSW 2094
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666211
-- council_reference: DA2019/0586
-  description: "<Insert Details>"
-  date_received: '2019-06-06'
-  address: 158 Elanora Road, ELANORA HEIGHTS NSW 2101
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666269
-- council_reference: DA2019/0587
-  description: "<Insert Details>"
-  date_received: '2019-06-06'
-  address: 1 Beach Road, NEWPORT NSW 2106
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666360
-- council_reference: DA2019/0588
-  description: "<Insert Details>"
-  date_received: '2019-06-07'
-  address: 16 Bynya Road, PALM BEACH NSW 2108
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666577
-- council_reference: DA2019/0589
-  description: "<insert details>"
-  date_received: '2019-06-07'
-  address: 30 Mactier Street, NARRABEEN NSW 2101
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666590
-- council_reference: DA2019/0590
-  description: Dwelling House
-  date_received: '2019-06-07'
-  address: 67 Beacon Hill Road, BEACON HILL NSW 2100
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666697
-- council_reference: DA2019/0591
-  description: "(insert details)"
-  date_received: '2019-06-07'
-  address: 15 Maitland Street, DAVIDSON NSW 2085
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1666820
-- council_reference: DA2019/0592
-  description: "<Insert details>"
-  date_received: '2019-06-07'
-  address: 43 White Street, BALGOWLAH NSW 2093
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1667012
-- council_reference: DA2019/0593
-  description: Insert Details
-  date_received: '2019-06-07'
-  address: 1884 / 752038 Oxford Falls Road, BEACON HILL NSW 2100
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1667057
-- council_reference: DA2019/0594
-  description: "(insert details)"
-  date_received: '2019-06-07'
-  address: 12 West Street, BROOKVALE NSW 2100
-  date_scraped: '2019-05-15'
-  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx?id=1667087
+  info_url: https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track/SearchApplication.aspx/SearchApplication.aspx?id=2073088
