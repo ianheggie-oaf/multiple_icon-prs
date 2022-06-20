@@ -73,7 +73,7 @@ module IconScraper
       line2 = application.at("Address Line2")
 
       if line1.nil?
-        properties = application.search("Line1").map{|p| p.parent}.select do |p|
+        properties = application.search("Line1").map(&:parent).select do |p|
           p.at("ApplicationId").inner_text == application_id
         end
         # If there's more than one property only consider the first
@@ -86,13 +86,11 @@ module IconScraper
         if properties.empty?
           desc = application.search("Assess").search("Description")
           desc.inner_text.split("|").each do |desc_item|
-            if desc_item.is_a?(String)
-              if desc_item =~ /([A-Z]{3})\s([0-9]{4})/ # matches `NSW 2753`
-                line1 = desc_item
-              end
-            end
+            next unless desc_item.is_a?(String)
+
+            line1 = desc_item if desc_item =~ /([A-Z]{3})\s([0-9]{4})/ # matches `NSW 2753`
           end
-          
+
         end
       end
 
@@ -101,7 +99,8 @@ module IconScraper
         next
       end
 
-      address = clean_whitespace(line1.inner_text) if !line1.is_a?(String) # to avoid calling .inner_text on a string
+      # to avoid calling .inner_text on a string
+      address = clean_whitespace(line1.inner_text) unless line1.is_a?(String)
       address = line1 if line1.is_a?(String)
       unless line2.nil? || line2.inner_text.empty?
         address += ", " + clean_whitespace(line2.inner_text)
@@ -162,16 +161,20 @@ module IconScraper
       info_url = record.at("a").attribute("href").to_s
       info_url = base_url + "/" + info_url
       address = record.at("strong").inner_text.to_s
-      
+
       inner_div = record.search("div").first.to_s.split("\n")
       date_received = inner_div[9].strip.split("<br>").first
       description = inner_div[3].strip.split("<br>")[1]
-      description = description.split('-')[1].strip if description.include?('-')
+      description = description.split("-")[1].strip if description.include?("-")
 
       record = {}
       record["council_reference"] = council_reference
       record["description"] = description
-      record["date_received"] = Date.parse(date_received).to_s rescue "N/A"
+      record["date_received"] = begin
+                                  Date.parse(date_received).to_s
+                                rescue ArgumentError
+                                  "N/A"
+                                end
       record["address"] = address
       record["date_scraped"] = Date.today.to_s
       record["info_url"] = info_url
