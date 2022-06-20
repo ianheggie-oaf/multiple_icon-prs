@@ -19,7 +19,8 @@ module IconScraper
     end
   end
 
-  def self.scrape_with_params(url:, period:, types: nil, ssl_verify: true, proxy: false)
+  def self.scrape_with_params(url:, period:, types: nil, ssl_verify: true, proxy: false,
+                              use_html_scraper: false)
     url += "/SearchApplication.aspx"
 
     agent = Mechanize.new
@@ -35,12 +36,12 @@ module IconScraper
     Page::TermsAndConditions.agree(doc, agent) if Page::TermsAndConditions.on?(doc)
     params = { d: period, k: "LodgementDate", o: "xml" }
     params[:t] = types.join(",") if types
-    begin
-      rest_xml(url, params, agent) do |record|
+    if use_html_scraper
+      scrape_html(url, params, agent) do |record|
         yield record
       end
-    rescue StandardError
-      scrape_html(url, params, agent) do |record|
+    else
+      rest_xml(url, params, agent) do |record|
         yield record
       end
     end

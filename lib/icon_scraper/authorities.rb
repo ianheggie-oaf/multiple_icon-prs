@@ -80,7 +80,11 @@ module IconScraper
     northern_beaches: {
       url: "https://eservices.northernbeaches.nsw.gov.au/ePlanning/live/Public/XC.Track",
       period: "thismonth",
-      types: ["DevApp"]
+      types: ["DevApp"],
+      # The xml output is broken on northern beaches so we're hacking around it by
+      # using a really hardcoded html scraper that currently only really works for
+      # the northern beaches
+      use_html_scraper: true
     },
     north_sydney: {
       url: "https://apptracking.northsydney.nsw.gov.au/Pages/XC.Track",
