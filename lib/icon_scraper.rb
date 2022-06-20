@@ -150,6 +150,7 @@ module IconScraper
     end
   end
 
+  # TODO: NO SUPPORT FOR PAGINATION AND ONLY WORKS FOR NORTHERN BEACHES
   def self.scrape_html(base_url, query, agent)
     query.delete(:o)
     query = query.to_query
