@@ -60,11 +60,6 @@ module IconScraper
       url: "https://etrack.kyogle.nsw.gov.au/Pages/XC.Track",
       period: "last28days"
     },
-    leichhardt: {
-      url: "http://www.eservices.lmc.nsw.gov.au/ApplicationTracking/Pages/XC.Track",
-      period: "last14days",
-      types: [161]
-    },
     liverpool: {
       url: "https://eplanning.liverpool.nsw.gov.au/Pages/XC.Track",
       period: "last14days"
