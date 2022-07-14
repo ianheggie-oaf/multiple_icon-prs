@@ -17,7 +17,7 @@ module IconScraper
       types: %w[PlnPermit PlnAppeals PlnPostPer PlanPermGr PlanAmend PlanAppeal]
     },
     canada_bay: {
-      url: "http://datracking.canadabay.nsw.gov.au/Pages/XC.Track",
+      url: "https://canadabay-eplanning.t1cloud.com/Pages/XC.Track",
       period: "last14days"
     },
     central_highlands: {
