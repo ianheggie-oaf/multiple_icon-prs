@@ -19,13 +19,18 @@ module IconScraper
     end
   end
 
-  def self.scrape_with_params(url:, period:, types: nil, ssl_verify: true, proxy: false,
+  def self.scrape_with_params(url:, period:, types: nil, ssl_verify: true, australian_proxy: false,
                               use_html_scraper: false)
     url += "/SearchApplication.aspx"
 
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE unless ssl_verify
-    agent.set_proxy(ENV["MORPH_PROXY_HOST"], ENV["MORPH_PROXY_PORT"].to_i) if proxy
+    if australian_proxy
+      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
+      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
+      # the real password.
+      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
+    end
 
     # Hardcode special handling for weird content encoding server setting for gosnells
     agent.content_encoding_hooks << lambda { |_httpagent, _uri, response, _body_io|
