@@ -116,10 +116,6 @@ module IconScraper
       url: "https://srr-prod-icon.saas.t1cloud.com/Pages/XC.Track",
       period: "last28days"
     },
-    strathfield: {
-      url: "http://daenquiry.strathfield.nsw.gov.au/Pages/XC.Track",
-      period: "last28days"
-    },
     swan: {
       url: "https://elodge.swan.wa.gov.au/Pages/XC.Track",
       types: [282, 281, 283],
