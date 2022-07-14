@@ -1,123 +1,124 @@
 ---
-- council_reference: DA2019/0147
-  description: Demolition of existing structures and construction of a new attached
-    two storey dual occupancy
-  date_received: '2019-05-27'
-  address: 20 Boronia Street, CONCORD WEST NSW 2138
+- council_reference: DA2022/0175
+  description: Demolition of existing dwelling and construction of a new two storey
+    brick and weatherboard-clad dual occupancy.
+  date_received: '2022-07-01'
+  address: 16 Argonne Street, NORTH STRATHFIELD NSW 2137
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319043
-- council_reference: DA2019/0148
-  description: Pruning of trees in a conservation area
-  date_received: '2019-05-27'
-  address: 31 Iandra Street, CONCORD WEST NSW 2138
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=519353
+- council_reference: DA2022/0179
+  description: Alteration and first floor addition for residential dwelling.
+  date_received: '2022-07-01'
+  address: 90 Thompson Street, DRUMMOYNE NSW 2047
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319135
-- council_reference: DA2019/0149
-  description: Construction of new access steps adjacent to eastern boundary of the
-    site
-  date_received: '2019-05-28'
-  address: 66 Barnstaple Road, RODD POINT NSW 2046
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=519822
+- council_reference: DA2022/0180
+  description: Demolition of all structures and construction of a new two storey dwelling
+    with basement and front fence.
+  date_received: '2022-06-30'
+  address: 9 Bayview Street, CONCORD NSW 2137
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319304
-- council_reference: DA2019/0150
-  description: Alterations and additions to rear of existing dwelling
-  date_received: '2019-05-29'
-  address: 12 Myall Street, CONCORD WEST NSW 2138
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=519825
+- council_reference: DA2022/0182
+  description: Alterations and additions to existing dwelling
+  date_received: '2022-07-01'
+  address: 83 Renwick Street, DRUMMOYNE NSW 2047
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319525
-- council_reference: DA2019/0151
-  description: Construction of a swimming pool and associated works
-  date_received: '2019-05-30'
-  address: 145 Peninsula Drive, BREAKFAST POINT NSW 2137
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=522422
+- council_reference: DA2022/0183
+  description: Installation of replacement split system air conditioner at existing
+    air conditioner location on balcony
+  date_received: '2022-07-01'
+  address: 7 / 30 Fitzroy Street, ABBOTSFORD NSW 2046
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319862
-- council_reference: DA2019/0152
-  description: Removal of a tree
-  date_received: '2019-05-31'
-  address: 17 Gears Avenue, DRUMMOYNE NSW 2047
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=522857
+- council_reference: DA2022/0184
+  description: Minor works to replace bifold doors on rear façade, addition of skylights,
+    and addition of screen walls to existing patio.
+  date_received: '2022-07-04'
+  address: 124 Lower St Georges Crescent, DRUMMOYNE NSW 2047
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319941
-- council_reference: DA2019/0153
-  description: Two storey addition to rear of existing dwelling
-  date_received: '2019-05-31'
-  address: 12 Plunkett Street, DRUMMOYNE NSW 2047
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=522865
+- council_reference: DA2022/0185
+  description: Alterations & additions to existing single storey residence
+  date_received: '2022-07-12'
+  address: 19 Edwin Street, DRUMMOYNE NSW 2047
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=319994
-- council_reference: DA2019/0154
-  description: Fitout for Jiu Jitsu shop
-  date_received: '2019-05-31'
-  address: 1 - 11 George Street, NORTH STRATHFIELD NSW 2137
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=522871
+- council_reference: DA2022/0187
+  description: Demolition of existing structures and construction of a attached dual
+    occupancy with strata subdivision
+  date_received: '2022-07-05'
+  address: 4 Marceau Drive, CONCORD NSW 2137
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320059
-- council_reference: DA2019/0155
-  description: Complete construction of new rear detached  dwelling and construction
-    of a new two storey dwelling to match existing dwelling footprint
-  date_received: '2019-05-31'
-  address: 394 Concord Road, CONCORD WEST NSW 2138
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=522885
+- council_reference: DA2022/0188
+  description: Subdivision of 3 lots into 2 lots. Change the presentation to all be
+    facing Nullawarra Avenue instead. Demolition of two existing dwellings, swimming
+    pool and ancillary structures
+  date_received: '2022-07-11'
+  address: 2 Boronia Street, CONCORD WEST NSW 2138
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320086
-- council_reference: DA2019/0156
-  description: Tree pruning
-  date_received: '2019-06-03'
-  address: 81 Formosa Street, DRUMMOYNE NSW 2047
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=523475
+- council_reference: DA2022/0189
+  description: Demolition of the existing structures and Construction of a Multi Unit
+    Residential Flat Building consisting of 9 apartments and 3 basement levels of
+    parking
+  date_received: '2022-07-06'
+  address: 43 Walton Crescent, ABBOTSFORD NSW 2046
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320178
-- council_reference: DA2019/0157
-  description: Strata Subdivision into two allotments
-  date_received: '2019-06-03'
-  address: 12 Russell Street, RUSSELL LEA NSW 2046
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=523833
+- council_reference: DA2022/0191
+  description: Construction of a new hard stand parking and vehicular crossing to
+    the existing dwelling.
+  date_received: '2022-07-08'
+  address: 19 Coranto Street, WAREEMBA NSW 2046
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320288
-- council_reference: DA2019/0158
-  description: Alterations and additions to existing dwelling and new carport
-  date_received: '2019-06-04'
-  address: 68 Wilga Street, CONCORD WEST NSW 2138
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=524052
+- council_reference: DA2022/0192
+  description: Demolition of an existing structures and construction of a dwelling
+    house, swimming pool, and landscaping
+  date_received: '2022-07-07'
+  address: 8 Meadow Street, CONCORD NSW 2137
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320407
-- council_reference: DA2019/0159
-  description: Demolition of existing garage and construction of a new garage, pool
-    and deck at rear of dwelling and new driveway crossing with handstand parking
-    at front of property
-  date_received: '2019-06-05'
-  address: 2 Byrne Avenue, DRUMMOYNE NSW 2047
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=524062
+- council_reference: DA2022/0194
+  description: Internal alterations and the addition of a pergola to the lower level
+    balcony.
+  date_received: '2022-07-08'
+  address: 6 / 3 Harbourview Crescent, ABBOTSFORD NSW 2046
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320674
-- council_reference: DA2019/0160
-  description: Demolition of existing structures and construction of new residential
-    flat buildings
-  date_received: '2019-06-05'
-  address: 2 Rothwell Avenue, CONCORD WEST NSW 2138
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=524383
+- council_reference: DA2022/0195
+  description: Demolition of existing garage and construction of a colorbond shed
+  date_received: '2022-07-12'
+  address: 10 Raynor Avenue, ABBOTSFORD NSW 2046
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320718
-- council_reference: DA2019/0161
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=524386
+- council_reference: DA2022/0197
+  description: Demolition of existing structures,  and construction of a two storey
+    dual occupancy on each lot including associated landscaping and site works with
+    strata title subdivision
+  date_received: '2022-07-13'
+  address: 38 Queen Street, CONCORD WEST NSW 2138
+  date_scraped: '2019-05-15'
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=524398
+- council_reference: DA2022/0198
+  description: Proposed renovation works to existing residential property including
+    partial demolition to existing masonry walls, and associated timber roof structure
+    for new garage extension to match structure and material of existing. Extension
+    of existing balcony.Construction of new semi-inground swimming pool and associated
+    landscaping, construction of new suspended deck/ alfresco area and associated
+    landscaping. Modification to existing BBQ area and associated landscaping. Replacement
+    of existing fencing to boundary.
+  date_received: '2022-07-13'
+  address: 20 Chiswick Street, CHISWICK NSW 2046
+  date_scraped: '2019-05-15'
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=525554
+- council_reference: DA2022/0199
   description: Development Application - Residential - Alterations and Additions -
     Dwelling Extensions
-  date_received: '2019-06-05'
-  address: 9 Myall Street, CONCORD WEST NSW 2138
+  date_received: '2022-07-13'
+  address: 70 Llewellyn Street, RHODES NSW 2138
   date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320753
-- council_reference: DA2019/0162
-  description: Development Application - Commercial - Retail - Office - Alterations/Additions,
-    Shop/Office Fitout
-  date_received: '2019-06-06'
-  address: 10 Walker Street, RHODES NSW 2138
-  date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=320940
-- council_reference: DA2019/0163
-  description: Development Application - Residential  - Single Dwelling
-  date_received: '2019-06-07'
-  address: 34 Mcgrath Avenue, FIVE DOCK NSW 2046
-  date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=321093
-- council_reference: DA2019/0164
-  description: Development Application - Commercial - Retail - Office - Business
-  date_received: '2019-06-07'
-  address: 130 Tennyson Road, MORTLAKE NSW 2137
-  date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=321113
-- council_reference: DA2019/0165
-  description: Development Application - Residential  - Single Dwelling
-  date_received: '2019-06-07'
-  address: 5 Elizabeth Street, FIVE DOCK NSW 2046
-  date_scraped: '2019-05-15'
-  info_url: http://datracking.canadabay.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=321143
+  info_url: https://canadabay-eplanning.t1cloud.com/Pages/XC.Track/SearchApplication.aspx?id=525559

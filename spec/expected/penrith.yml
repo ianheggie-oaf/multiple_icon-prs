@@ -1,200 +1,683 @@
 ---
-- council_reference: DA17/0160.03
-  description: Detached Dual Occupancy - Modification involving Relocation of New
-    Dwelling
-  date_received: '2019-06-03'
-  address: 25 Menzies Circuit, ST CLAIR NSW 2759
+- council_reference: DA22/0549
+  description: Entry Signage
+  date_received: '2022-06-16'
+  address: 2031 Links Road, ST MARYS NSW 2760
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439078
-- council_reference: DA17/1060.02
-  description: Modification of Two Storey Dwelling and Attached Secondary Dwelling
-  date_received: '2019-06-06'
-  address: 45 Muscharry Road, LONDONDERRY NSW 2753
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=506937
+- council_reference: DA22/0551
+  description: Pylon Sign
+  date_received: '2022-06-16'
+  address: 133 A Lenore Drive, ERSKINE PARK NSW 2759
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439280
-- council_reference: DA17/1163.02
-  description: Modification to add a balcony and amending front window and rear doors
-    to dwelling A.
-  date_received: '2019-06-07'
-  address: 11 Macadamia Court, KINGSWOOD NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=506969
+- council_reference: DA22/0552
+  description: Relocation of Existing Business Identification Wall Sign
+  date_received: '2022-06-16'
+  address: 2 - 20 Pyramid Street, EMU PLAINS NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439399
-- council_reference: DA18/0292.02
-  description: Modification to Approved Town Houses to Allow Removal of Tree
-  date_received: '2019-06-06'
-  address: 44 Park Avenue, KINGSWOOD NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=506971
+- council_reference: DA22/0553
+  description: This application seeks development consent for the continued use of
+    the property for an animal boarding establishment, including grooming, given the
+    long established history of the property.
+  date_received: '2022-06-17'
+  address: 377 - 387 Wentworth Road, ORCHARD HILLS NSW 2748
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439314
-- council_reference: DA18/1188.01
-  description: Section 4.55(1) Modification for the Deletion of Conditions 21 and
-    22 of Development Consent DA18/1188
-  date_received: '2019-06-06'
-  address: 126 Forestwood Drive, GLENMORE PARK NSW 2745
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507053
+- council_reference: DA22/0554
+  description: Demolition of Existing Dwelling and Construction of an Attached Dual
+    Occupancy
+  date_received: '2022-06-20'
+  address: 4 McCartney Crescent, ST CLAIR NSW 2759
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439309
-- council_reference: DA19/0359
-  description: Garden Shed
-  date_received: '2019-06-03'
-  address: 71 Garswood Road, GLENMORE PARK NSW 2745
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507115
+- council_reference: DA22/0555
+  description: Demolition of Existing Dwelling and Construction of a Single Storey
+    Dwelling and a Secondary Dwelling
+  date_received: '2022-06-20'
+  address: 41 Winbourne Road, MULGOA NSW 2745
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439014
-- council_reference: DA19/0360
-  description: Awning
-  date_received: '2019-06-04'
-  address: 14 a Blueridge Place, ORCHARD HILLS NSW 2748
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507138
+- council_reference: DA22/0556
+  description: Detached Dual Occupancy with Strata Subdivision x 2 Lots on Proposed
+    Lot 54
+  date_received: '2022-06-21'
+  address: 1 Gulshan Avenue, CLAREMONT MEADOWS NSW 2747
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439106
-- council_reference: DA19/0361
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507159
+- council_reference: DA22/0557
+  description: OSSM
+  date_received: '2022-06-21'
+  address: 140 - 146 Vincent Road, CRANEBROOK NSW 2749
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507168
+- council_reference: DA22/0558
+  description: Single Storey Dwelling on Proposed Lot
+  date_received: '2022-06-21'
+  address: 5 Haryana Road, CLAREMONT MEADOWS NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507206
+- council_reference: DA22/0559
+  description: Repurpose of current granny flat building to use as a clinic for cosmetic
+    injectables and non invasive beauty treatments. By appointment only
+  date_received: '2022-06-22'
+  address: 123 - 127 Whitegates Road, LONDONDERRY NSW 2753
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507274
+- council_reference: DA22/0560
+  description: Alterations and Additions to an Existing Industrial Building
+  date_received: '2022-06-22'
+  address: 8 Telford Place, NORTH ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507280
+- council_reference: DA22/0561
+  description: In Ground Swimming Pool
+  date_received: '2022-06-22'
+  address: 1239 Mulgoa Road, MULGOA NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507289
+- council_reference: DA22/0562
+  description: Demolition of Existing Outbuildings, Construction of Two (2) Storey
+    Dwelling to Form Detached Dual Occupancy & Strata Title Subdivision x 2 Lots
+  date_received: '2022-06-22'
+  address: 5 Grafton Place, JAMISONTOWN NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507299
+- council_reference: DA22/0563
+  description: Single Storey Dwelling on Proposed Lot
+  date_received: '2022-06-22'
+  address: 15 Gulshan Avenue, CLAREMONT MEADOWS NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507305
+- council_reference: DA22/0564
   description: Single Storey Dwelling
-  date_received: '2019-06-04'
-  address: 51 a Tedbury Road, LLANDILO NSW 2747
+  date_received: '2022-06-22'
+  address: 9 Gulshan Avenue, CLAREMONT MEADOWS NSW 2747
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439112
-- council_reference: DA19/0362
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507309
+- council_reference: DA22/0565
+  description: Carport  Awning
+  date_received: '2022-06-23'
+  address: 12 Wilfred Place, JAMISONTOWN NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507322
+- council_reference: DA22/0566
+  description: Modification to the existing western entry driveway on Boronia Road
+    and modifications to parking layout and new Business Identification Signage.
+  date_received: '2022-06-23'
+  address: Boronia Road, NORTH ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507348
+- council_reference: DA22/0567
+  description: Demolition of existing structures and construction of a two storey
+    dual occupancy dwelling with Torrens subdivision
+  date_received: '2022-06-23'
+  address: 24 Saddington Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507359
+- council_reference: DA22/0568
+  description: External Building Facade Works including Paintwork  Signage  Internal
+    Building Alterations including Fit-Out  Use of Ground Floor as Bookshop  Ancillary
+    Cafe  First Floor as Two (2) Commercial Tenancies
+  date_received: '2022-06-23'
+  address: 378 High Street, PENRITH NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507390
+- council_reference: DA22/0569
+  description: Demolition of existing garage , carport ,shed ,conversion of existing
+    covered verandah for garage and construct new 2 storey dual occupancy dwelling
+  date_received: '2022-06-23'
+  address: 46 Kenny Avenue, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507401
+- council_reference: DA22/0570
+  description: Construction of single storey dwelling with attached garage
+  date_received: '2022-06-24'
+  address: 48 Bonner Road, AGNES BANKS NSW 2753
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507410
+- council_reference: DA22/0571
+  description: Demolition of Existing Dwelling and Construction of Two Storey Dwelling
+    with Attached Garage
+  date_received: '2022-06-27'
+  address: 72 McNaughton Street, JAMISONTOWN NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507476
+- council_reference: DA22/0572
+  description: Use as Animal Boarding Establishment (Dogs) and Dog Grooming
+  date_received: '2022-06-27'
+  address: 377 - 387 Wentworth Road, ORCHARD HILLS NSW 2748
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507489
+- council_reference: DA22/0573
+  description: Detached Dual Occupancy
+  date_received: '2022-06-27'
+  address: 46 Kenny Avenue, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507492
+- council_reference: DA22/0574
+  description: Installation of inground fibreglass swimming pool
+  date_received: '2022-06-27'
+  address: 35 - 41 Parker Road, LONDONDERRY NSW 2753
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507494
+- council_reference: DA22/0575
+  description: |-
+    Changes made to a 3x3 sized room, positioned at the front-of-home, include:
+    - installed timber flooring
+    - portable sink
+    - installed curtains (for privacy)
+    No other changes or construction required.
+  date_received: '2022-06-27'
+  address: 109 Callistemon Circuit, JORDAN SPRINGS NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507518
+- council_reference: DA22/0576
+  description: Construction of a double story home with associated landscape works.
+  date_received: '2022-06-28'
+  address: 2 Crimson Oak Way, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507588
+- council_reference: DA22/0577
+  description: Demolition of existing dwelling, tree removal and construction of a
+    double storey dwelling and retaining walls
+  date_received: '2022-06-28'
+  address: 38 Cliffbrook Crescent, LEONAY NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507611
+- council_reference: DA22/0578
+  description: Proposed Games room
+  date_received: '2022-06-28'
+  address: 13 Medinah Avenue, LUDDENHAM NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507630
+- council_reference: DA22/0579
+  description: Business Identification Signage
+  date_received: '2022-06-28'
+  address: 550 - 556 High Street, PENRITH NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507638
+- council_reference: DA22/0580
+  description: Dwelling alterations including a first floor addition
+  date_received: '2022-06-28'
+  address: 14 Barnett Street, SOUTH PENRITH NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507641
+- council_reference: DA22/0581
+  description: Construction of a new duplex duel occupancy
+  date_received: '2022-06-29'
+  address: 4 Inkerman Road, EMU HEIGHTS NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507732
+- council_reference: DA22/0582
+  description: Single Storey Dwelling, Swimming Pool, Shed  Installation of an OSSM
+    System
+  date_received: '2022-06-29'
+  address: 140 Rickards Road, CASTLEREAGH NSW 2749
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507766
+- council_reference: DA22/0583
+  description: Retaining Walls, Parking Bay and Associated Landscaping
+  date_received: '2022-06-30'
+  address: 27 Riverbank Drive, EMU HEIGHTS NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507788
+- council_reference: DA22/0584
+  description: Monthly Markets At Coachmans Park Including An Additional Three (3)
+    Christmas Markets
+  date_received: '2022-06-30'
+  address: 129 Queen Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507802
+- council_reference: DA22/0585
+  description: Proposal to utilise an existing industrial factory unit as a motor
+    cycle mechanical workshop.
+  date_received: '2022-07-01'
+  address: 26 Bent Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507827
+- council_reference: DA22/0586
+  description: Installation of Inground Fibreglass Pool
+  date_received: '2022-07-01'
+  address: 16 Tranquil Way, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507829
+- council_reference: DA22/0587
+  description: Demolition of Existing Dwelling and Construction of a Two Storey Dwelling
+  date_received: '2022-07-01'
+  address: 12 Tenison Avenue, CAMBRIDGE GARDENS NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507854
+- council_reference: DA22/0588
+  description: First Floor Addition
+  date_received: '2022-07-01'
+  address: 4 Panton Close, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507855
+- council_reference: DA22/0589
+  description: Demolition of Existing Structures  Construction of Two (2) Storey  129
+    Place Child Care Centre including Basement Car Parking  Associated Site Works
+  date_received: '2022-07-01'
+  address: 13 - 15 Luttrell Street, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507862
+- council_reference: DA22/0590
+  description: |-
+    Demolition of existing single storey brick residence and ancillary structures
+    Subdivision of land from one (1) Torrens Titled allotment into two (2) Torrens Titled allotments
+    Construction of an attached Double Storey Dual Occupancy development
+  date_received: '2022-07-01'
+  address: 13 Melbourne Street, OXLEY PARK NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507864
+- council_reference: DA22/0591
+  description: Demolition of existing home and construction of 100 child care places
+    with basement level parking.
+  date_received: '2022-07-01'
+  address: 113 Cambridge Street, CAMBRIDGE PARK NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507889
+- council_reference: DA22/0592
+  description: Vehicle Repair Station for Unit 6 – Motor Cycle Repairs
+  date_received: '2022-07-01'
+  address: 26 Bent Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507890
+- council_reference: DA22/0593
+  description: Pergola Addition to rear of Dwelling
+  date_received: '2022-07-04'
+  address: 1 Wolf Close, ST CLAIR NSW 2759
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507904
+- council_reference: DA22/0594
+  description: Two Storey Dwelling
+  date_received: '2022-07-04'
+  address: 13 Shale Hill Drive, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507908
+- council_reference: DA22/0595
+  description: Two Storey Dwelling and Swimming Pool
+  date_received: '2022-07-04'
+  address: 5 Altavista Rise, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507909
+- council_reference: DA22/0596
+  description: Pool, Retaining Walls and Landscaping
+  date_received: '2022-07-04'
+  address: 16 Tranquil Way, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507918
+- council_reference: DA22/0597
+  description: Demolition of existing fire damaged dwelling and construction of a
+    double storey dwelling
+  date_received: '2022-07-04'
+  address: 38 Kobina Avenue, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507924
+- council_reference: DA22/0598
+  description: demolish all structures and construct 6x 2 storey SEPP 2009 affordable
+    dwellings
+  date_received: '2022-07-04'
+  address: 32 Sydney Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507945
+- council_reference: DA22/0599
+  description: Proposed Games room
+  date_received: '2022-07-04'
+  address: 13 Medinah Avenue, LUDDENHAM NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507958
+- council_reference: DA22/0600
+  description: Demolition of Existing Structures and Construction of a Two Storey
+    Child Care Facility Catering for 100 x Children with Basement Car Parking
+  date_received: '2022-07-05'
+  address: 113 Cambridge Street, CAMBRIDGE PARK NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507975
+- council_reference: DA22/0601
+  description: Construction of a new duplex duel occupancy
+  date_received: '2022-07-05'
+  address: 4 Inkerman Road, EMU HEIGHTS NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507979
+- council_reference: DA22/0602
+  description: The existing home kitchen is equipped with dishwasher, new oven and
+    stove, freezer and fridge in the garage, separate cabinets for business use, hand
+    towels and soaps in the kitchen and toilet
+  date_received: '2022-07-05'
+  address: 18 Shepherd Street, COLYTON NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507984
+- council_reference: DA22/0603
+  description: Two Lot Strata Subdivision
+  date_received: '2022-07-05'
+  address: 18 Arundel Park Drive, ST CLAIR NSW 2759
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507990
+- council_reference: DA22/0604
+  description: Alterations and Additions to Existing Dwelling
+  date_received: '2022-07-05'
+  address: 48 Ploughman Crescent, WERRINGTON DOWNS NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508004
+- council_reference: DA22/0605
+  description: The construction of a single storey primary dwelling  detached secondary
+    dwelling on a vacant allotment
+  date_received: '2022-07-05'
+  address: 105 - 107 The Northern Road, LONDONDERRY NSW 2753
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508054
+- council_reference: DA22/0606
+  description: Demolition of existing structures and construction of a two storey
+    dual occupancy dwelling with Torrens Title subdivision.
+  date_received: '2022-07-06'
+  address: 24 Saddington Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508067
+- council_reference: DA22/0607
   description: Secondary Dwelling
-  date_received: '2019-06-04'
-  address: 19 - 23 Carrington Road, LONDONDERRY NSW 2753
+  date_received: '2022-07-06'
+  address: 2 Peter Court, JAMISONTOWN NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439115
-- council_reference: DA19/0363
-  description: Demolition of existing structures and construction of a 23 room boarding
-    house (including managers room) with associated basement car parking, stormwater
-    drainage and landscaping works
-  date_received: '2019-06-04'
-  address: 41 Manning Street, KINGSWOOD NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508081
+- council_reference: DA22/0608
+  description: |-
+    Partial demolition of an external wall and construction of a new 2 storey office and office staff amenities within the existing building.
+    A new parking area associated with the proposed office
+    A new amenities area for non-office workers.
+  date_received: '2022-07-06'
+  address: 30 - 32 Plasser Crescent, NORTH ST MARYS NSW 2760
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439128
-- council_reference: DA19/0364
-  description: 2x Lot Strata Title Subdivision
-  date_received: '2019-06-04'
-  address: 41 Barker Street, CAMBRIDGE PARK NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508119
+- council_reference: DA22/0609
+  description: Demolition of Existing Dwelling/Structures and Construction of Single
+    Storey Dwelling  OSSM System
+  date_received: '2022-07-06'
+  address: 554 - 558 Londonderry Road, LONDONDERRY NSW 2753
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439136
-- council_reference: DA19/0365
-  description: Inground swimming pool and front fence
-  date_received: '2019-06-04'
-  address: 91 Melville Road, ST CLAIR NSW 2759
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508122
+- council_reference: DA22/0610
+  description: Swimming Pool
+  date_received: '2022-07-06'
+  address: 114 Hume Crescent, WERRINGTON COUNTY NSW 2747
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439151
-- council_reference: DA19/0366
-  description: Two Storey Dwelling
-  date_received: '2019-06-04'
-  address: 8 Commodore Street, LLANDILO NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508163
+- council_reference: DA22/0611
+  description: Change of Use to a Depot and Alterations and Additions including a
+    Partial demolition of an external wall and construction of an office and  amenities
+    and associated works.
+  date_received: '2022-07-07'
+  address: 30 - 32 Plasser Crescent, NORTH ST MARYS NSW 2760
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439163
-- council_reference: DA19/0367
-  description: Use as Transport Depot
-  date_received: '2019-06-04'
-  address: 101 Gascoigne Street, KINGSWOOD NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508185
+- council_reference: DA22/0612
+  description: Detached Garage, Carport, Retaining Walls and Driveway
+  date_received: '2022-07-07'
+  address: 5 Laycock Street, CRANEBROOK NSW 2749
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439186
-- council_reference: DA19/0368
-  description: Dwelling Additions and Demolition of Outbuildings
-  date_received: '2019-06-04'
-  address: 86 Mt Vernon Road, MOUNT VERNON NSW 2178
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508229
+- council_reference: DA22/0613
+  description: Proposed shed with awning.
+  date_received: '2022-07-08'
+  address: 44 Bonner Road, AGNES BANKS NSW 2753
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439189
-- council_reference: DA19/0369
-  description: Two Storey Dwelling
-  date_received: '2019-06-05'
-  address: 16 Garnet Drive, CADDENS NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508260
+- council_reference: DA22/0614
+  description: Shed with Attached Awning and Driveway
+  date_received: '2022-07-08'
+  address: 48 Bonner Road, AGNES BANKS NSW 2753
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439209
-- council_reference: DA19/0370
-  description: Construction of an Attached Dual Occupancy
-  date_received: '2019-06-05'
-  address: 113 Marsden Road, ST MARYS NSW 2760
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508270
+- council_reference: DA22/0615
+  description: Alterations  to Existing Dwelling including First Floor Addition
+  date_received: '2022-07-08'
+  address: 2 Summercrop Place, WERRINGTON DOWNS NSW 2747
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439211
-- council_reference: DA19/0371
-  description: Strata Subdivision of Existing Dual Occupancy into 2 Lots
-  date_received: '2019-06-05'
-  address: 117 Wrench Street, CAMBRIDGE PARK NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508275
+- council_reference: DA22/0616
+  description: |-
+    The proposal of the development is to:
+    - Install a solid core door penetrating brickwork into current garage.
+    - Retrofit the garage with plumbing necessary to add sink and washing machine.
+    - Install wall linings to brick walls.
+  date_received: '2022-07-10'
+  address: 7 / 5 St Pauls Crescent, EMU PLAINS NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439213
-- council_reference: DA19/0372
-  description: Inground Swimming Pool
-  date_received: '2019-06-05'
-  address: 6 / 10 Barrett Place, CRANEBROOK NSW 2749
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508323
+- council_reference: DA22/0617
+  description: The application is for the double storey detached dual occupancy development.
+  date_received: '2022-07-10'
+  address: 5 Melbourne Street, OXLEY PARK NSW 2760
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439217
-- council_reference: DA19/0373
-  description: Construction of an Attached Dual Occupancy (2 new)
-  date_received: '2019-06-05'
-  address: 7 Burrawang Close, KINGSWOOD NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508326
+- council_reference: DA22/0618
+  description: Alterations and Additions to Existing Dwelling including First Floor
+    Storage Loft  Attached Garage
+  date_received: '2022-07-11'
+  address: 46 Russell Street, EMU PLAINS NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439220
-- council_reference: DA19/0374
-  description: Single Storey Dwelling
-  date_received: '2019-06-05'
-  address: 20 Randall Street, GLENMORE PARK NSW 2745
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508330
+- council_reference: DA22/0619
+  description: Construction of an Awning to an Approved Child Care Centre
+  date_received: '2022-07-11'
+  address: 66 - 76 Woodlands Drive, GLENMORE PARK NSW 2745
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439228
-- council_reference: DA19/0375
-  description: Demolition of Existing Structures, and Construction of a New 2 Storey
-    Childcare Centre with Basement Parking
-  date_received: '2019-06-05'
-  address: 181 Victoria Street, CAMBRIDGE PARK NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508340
+- council_reference: DA22/0620
+  description: An Attached Two (2) Storey Dual Occupancy
+  date_received: '2022-07-11'
+  address: 4 Inkerman Road, EMU HEIGHTS NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439229
-- council_reference: DA19/0376
-  description: Subdivision of one (1) existing lot into two (2) lots
-  date_received: '2019-06-05'
-  address: 821 - 849 Luddenham Road, LUDDENHAM NSW 2745
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508376
+- council_reference: DA22/0621
+  description: Double Storey Dwelling
+  date_received: '2022-07-11'
+  address: 40 Tedbury Road, JORDAN SPRINGS NSW 2747
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439239
-- council_reference: DA19/0377
-  description: Construction of a Leachate Pond & Decommissioning of an existing Leachate
-    Pond associated with an existing landfill facility
-  date_received: '2019-06-05'
-  address: 16 - 23 Clifton Avenue, KEMPS CREEK NSW 2178
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508405
+- council_reference: DA22/0622
+  description: Demolition of Existing Structures and Construction of a Detached Two
+    Storey Dual Occupancy with Strata Subdivision
+  date_received: '2022-07-12'
+  address: 5 Melbourne Street, OXLEY PARK NSW 2760
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439245
-- council_reference: DA19/0378
-  description: Two storey dwelling
-  date_received: '2019-06-05'
-  address: 7 Gibbes Street, REGENTVILLE NSW 2745
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508412
+- council_reference: DA22/0623
+  description: Home Business
+  date_received: '2022-07-12'
+  address: 34 Reddan Avenue, PENRITH NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439255
-- council_reference: DA19/0379
-  description: Retrospective Approval for an Existing Secondary Dwelling
-  date_received: '2019-06-05'
-  address: 62 Maple Road, NORTH ST MARYS NSW 2760
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508445
+- council_reference: DA22/0624
+  description: Construction of a Single Storey Dwelling
+  date_received: '2022-07-12'
+  address: 7 Sheppard Road, EMU PLAINS NSW 2750
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439268
-- council_reference: DA19/0380
-  description: Alterations and Additions
-  date_received: '2019-06-06'
-  address: 29 Water Street, EMU PLAINS NSW 2750
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508446
+- council_reference: DA22/0625
+  description: Demolition of Existing Structures and Construction of a Two Storey
+    Attached Dual Occupancy with Strata Subdivision
+  date_received: '2022-07-12'
+  address: 24 Saddington Street, ST MARYS NSW 2760
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439343
-- council_reference: DA19/0381
-  description: Demolition of Industrial Shed
-  date_received: '2019-06-06'
-  address: 196 Christie Street, ST MARYS NSW 2760
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508465
+- council_reference: DA22/0626
+  description: Shed
+  date_received: '2022-07-12'
+  address: 74 - 78 Mt Vernon Road, MOUNT VERNON NSW 2178
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439354
-- council_reference: DA19/0382
-  description: Detached Secondary Dwelling and Wastewater system.
-  date_received: '2019-06-07'
-  address: 391 - 393 Londonderry Road, LONDONDERRY NSW 2753
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508478
+- council_reference: DA22/0627
+  description: Construction of a detached studio and attached garage
+  date_received: '2022-07-12'
+  address: 34 Twin Creeks Drive, LUDDENHAM NSW 2745
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439378
-- council_reference: DA19/0383
-  description: Single Storey Dwelling and Attached Secondary Dwelling
-  date_received: '2019-06-07'
-  address: 18 Argent Street, LLANDILO NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508488
+- council_reference: DA22/0628
+  description: Shed and Attached Awning
+  date_received: '2022-07-13'
+  address: 411 Bowood Road, MOUNT VERNON NSW 2178
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439394
-- council_reference: DA19/0384
-  description: Additions (Residential) Garage
-  date_received: '2019-06-07'
-  address: 57 Charles Todd Crescent, WERRINGTON COUNTY NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508490
+- council_reference: DA22/0629
+  description: The baking and packaging of cookies to be sold at local markets. No
+    changes will be made to the existing dwelling.
+  date_received: '2022-07-13'
+  address: 237 - 243 Hinxman Road, CASTLEREAGH NSW 2749
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439395
-- council_reference: DA19/0385
-  description: Strata title two lot subdivision
-  date_received: '2019-06-07'
-  address: 113 Henry Lawson Avenue, WERRINGTON COUNTY NSW 2747
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508509
+- council_reference: DA22/0630
+  description: Two Storey Dwelling and Associated Landscaping
+  date_received: '2022-07-13'
+  address: 2 Crimson Oak Way, GLENMORE PARK NSW 2745
   date_scraped: '2019-05-15'
-  info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439408
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508532
+- council_reference: DA22/0631
+  description: Propose demolition of existing dwellings, removal of existing vegetation
+    and proposed construction of 6 townhouses
+  date_received: '2022-07-14'
+  address: 17 Gordon Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508568
+- council_reference: Mod22/0103
+  description: S 4.55 (1a) Modification to Carport Location
+  date_received: '2022-06-16'
+  address: 17 Balmoral Drive, CAMBRIDGE PARK NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=506931
+- council_reference: Mod22/0104
+  description: The proposed modification is the floor height level, from 39.2RL to
+    39.6RL, as a result of the changed location to granny flat to comply with BCA
+    requirements.
+  date_received: '2022-06-16'
+  address: 127 Evan Street, SOUTH PENRITH NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507000
+- council_reference: Mod22/0105
+  description: Modification to Dwelling and Studio
+  date_received: '2022-06-17'
+  address: 100 - 104 Mt Vernon Road, MOUNT VERNON NSW 2178
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507045
+- council_reference: Mod22/0106
+  description: Modification to Approved Place of Public Worship - Reconfiguration
+    of the Mandir Building, Increase in Floor Area and Increase in the Height of the
+    Spires
+  date_received: '2022-06-20'
+  address: 230 - 242 Aldington Road, KEMPS CREEK NSW 2178
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507108
+- council_reference: Mod22/0107
+  description: Modification to Change the Finished Floor Levels of the Secondary Dwelling
+    to Comply with BCA Requirements
+  date_received: '2022-06-21'
+  address: 127 Evan Street, SOUTH PENRITH NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507231
+- council_reference: Mod22/0108
+  description: Section 4.55(2) Modifications to DA18/0977 for Alterations & Additions
+    to Emu Sports Club including New Northern & Western Outdoor Terrace & Covered
+    Pavilion Areas & Extension of Northern Covered Outdoor Gaming Area
+  date_received: '2022-06-22'
+  address: 1 Leonay Parade, LEONAY NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507315
+- council_reference: Mod22/0109
+  description: Dwelling Alterations and Additions including Widening Driveway
+  date_received: '2022-06-23'
+  address: 125 Nepean Street South, LEONAY NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507362
+- council_reference: Mod22/0110
+  description: Modification - Relocation of OSSM System
+  date_received: '2022-06-23'
+  address: 186 Church Lane, CASTLEREAGH NSW 2749
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507376
+- council_reference: Mod22/0111
+  description: Amendment to Dwelling
+  date_received: '2022-06-27'
+  address: 45 Dhiman Street, CLAREMONT MEADOWS NSW 2747
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507514
+- council_reference: Mod22/0112
+  description: Amendment to Awning
+  date_received: '2022-06-28'
+  address: 2 / 42 Luttrell Street, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507637
+- council_reference: Mod22/0113
+  description: Section 4.55(1A) Modifications to DA20/0753 for Staging of Works for
+    Approved Alterations  Additions to Existing Residential Aged Care Facility
+  date_received: '2022-06-29'
+  address: 57 Mulgoa Road, PENRITH NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507748
+- council_reference: Mod22/0114
+  description: |-
+    House design modified:
+    1. Smaller footprint
+    2. Location unchanged
+    3. Number of rooms unchanged
+  date_received: '2022-06-30'
+  address: 63 Kings Hill Road, MULGOA NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507826
+- council_reference: Mod22/0115
+  description: |-
+    Location – Shed location has been moved an additional 2m from the side boundary to have it centered on the block- 10m to each boundary was 8m on one side and 12 on the other
+    Drainage details – Clause 18 DA states use of absorption pit for overflow I have marked the location of this on the plan with sizing of the pit for approval
+    Driveway - Clause 16 Change wording of condition to include gravel driveway as an option as well as bitumen and concrete
+  date_received: '2022-07-01'
+  address: 43 Regentville Road, MULGOA NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507873
+- council_reference: Mod22/0116
+  description: Section 4.55(2) Modifications to DA21/0754 for Detached Dual Occupancy
+    including Alterations to Existing Dwelling's Garage Design, Re-Location of Entry
+    Door  Addition of Adjacent Window
+  date_received: '2022-07-05'
+  address: 21 Womra Crescent, GLENMORE PARK NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507969
+- council_reference: Mod22/0117
+  description: Modification of an Approved Multi Dwelling Housing Development to Modify
+    the Width and Location of the Driveway Crossover
+  date_received: '2022-07-05'
+  address: 32 Sydney Street, ST MARYS NSW 2760
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507999
+- council_reference: Mod22/0118
+  description: Shed Relocation
+  date_received: '2022-07-06'
+  address: 43 Regentville Road, MULGOA NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508057
+- council_reference: Mod22/0119
+  description: ADJUSTMENT TO THE PLANS AS THERE WAS A CHANGE OF MIND ON HOW TO USE
+    THE SPACE.
+  date_received: '2022-07-06'
+  address: 4 Monica Place, JAMISONTOWN NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508115
+- council_reference: Rev22/0002
+  description: Review of Development Application DA22/0458  for Change of Use of Land
+    to Depot for Storage of Scaffolding & Related Construction Materials
+  date_received: '2022-06-20'
+  address: 1 - 39 Abbotts Road, KEMPS CREEK NSW 2178
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=507137
+- council_reference: Rev22/0003
+  description: Review of Determination of DA22/0058 for Demolition of Existing Shed
+    and Construction of Detached Shed
+  date_received: '2022-07-11'
+  address: 3 Willoring Crescent, JAMISONTOWN NSW 2750
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508373
+- council_reference: Rev22/0004
+  description: Review of Determination
+  date_received: '2022-07-13'
+  address: 297 Littlefields Road, MULGOA NSW 2745
+  date_scraped: '2019-05-15'
+  info_url: https://datracker.penrithcity.nsw.gov.au/track/Pages/XC.Track/SearchApplication.aspx?id=508526
