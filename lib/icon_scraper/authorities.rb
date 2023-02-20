@@ -91,11 +91,6 @@ module IconScraper
       period: "last28days",
       types: %w[DA DevApp]
     },
-    randwick: {
-      url: "https://planning.randwick.nsw.gov.au/pages/xc.track.advanced",
-      period: "last14days",
-      types: [217]
-    },
     redland: {
       url: "http://pdonline.redland.qld.gov.au/Pages/XC.Track",
       period: "last14days",
