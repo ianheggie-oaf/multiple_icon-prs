@@ -41,10 +41,6 @@ module IconScraper
       url: "http://apps.gosnells.wa.gov.au/ICON/Pages/XC.Track",
       period: "last14days"
     },
-    greater_hume: {
-      url: "http://datracker.greaterhume.nsw.gov.au/Pages/XC.Track",
-      period: "last28days"
-    },
     hobart: {
       url: "https://apply.hobartcity.com.au/Pages/XC.Track",
       period: "last14days",
