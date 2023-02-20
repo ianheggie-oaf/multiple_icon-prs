@@ -113,11 +113,6 @@ module IconScraper
       period: "thismonth",
       types: %w[DA CDC]
     },
-    waverley: {
-      url: "https://eservices.waverley.nsw.gov.au/Pages/XC.Track",
-      period: "last14days",
-      types: %w[A0 SP2A TPO B1 B1A FPS]
-    },
     whitsunday: {
       url: "http://eplanning.whitsundayrc.qld.gov.au/Pages/XC.Track",
       period: "last28days"
