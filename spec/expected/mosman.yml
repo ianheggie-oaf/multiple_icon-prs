@@ -1,91 +1,63 @@
 ---
-- council_reference: '008.2017.00000267.002'
-  description: Modification of consent comprising amendment of the layout on the lower
-    ground level and the east elevation of a dwelling house
-  date_received: '2019-06-03'
-  address: 14 Burran Avenue, MOSMAN NSW 2088
+- council_reference: '008.2017.00000008.003'
+  description: s.4.55(2) Modification of consent  comprising amendments to the design
+    of a dwelling house
+  date_received: '2023-08-28'
+  address: 8A Cyprian Street, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2017.00000267.002
-- council_reference: '008.2018.00000135.002'
-  description: Modification of Development Consent comprising minor extension of Study
-    1 at rear on Julian Street Level
-  date_received: '2019-06-05'
-  address: 28 Julian Street, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2017.00000008.003
+- council_reference: '008.2022.00000085.004'
+  description: s.4.56(1) modification of a court approved consent
+  date_received: '2023-09-06'
+  address: 187 Spit Road, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2018.00000135.002
-- council_reference: '008.2018.00000254.002'
-  description: Modification of consent
-  date_received: '2019-06-04'
-  address: 21 Silex Road, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2022.00000085.004
+- council_reference: '008.2022.00000325.003'
+  description: s.4.55(2) Modification of consent comprising amendment to the carport
+    design
+  date_received: '2023-09-01'
+  address: 10 Union Street, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2018.00000254.002
-- council_reference: '008.2019.00000066.001'
-  description: Alteration and addition to a dwelling house, construction of a swimming
-    pool and landscaping works
-  date_received: '2019-05-29'
-  address: 92 Prince Albert Street, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2022.00000325.003
+- council_reference: '008.2023.00000192.001'
+  description: dwelling house
+  date_received: '2023-09-01'
+  address: 7 Lennox Street, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000066.001
-- council_reference: '008.2019.00000067.001'
-  description: Alteration and addition to a dwelling house comprising minor addition
-    to the living room on the ground level
-  date_received: '2019-05-30'
-  address: 220 Raglan Street, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000192.001
+- council_reference: '008.2023.00000196.001'
+  description: Alterations and additions to a residential flat building
+  date_received: '2023-08-30'
+  address: 3 Moruben Road, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000067.001
-- council_reference: '008.2019.00000068.001'
-  description: Construction of a swimming pool at the rear of the property
-  date_received: '2019-05-30'
-  address: 19 Lennox Street, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000196.001
+- council_reference: '008.2023.00000197.001'
+  description: Construction of a double carport with store at rear
+  date_received: '2023-09-04'
+  address: 31 Bradleys Head Road, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000068.001
-- council_reference: '008.2019.00000069.001'
-  description: Alterations ans additions
-  date_received: '2019-06-04'
-  address: 4 Fairfax Road, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000197.001
+- council_reference: '008.2023.00000198.001'
+  description: Demolition, new dwelling house and swimming pool
+  date_received: '2023-08-30'
+  address: 33A Rangers Avenue, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000069.001
-- council_reference: '008.2019.00000070.001'
-  description: Demolition of existing structures and construction of a new dwelling
-    house with detached garage, a swimming pool and landscaping works
-  date_received: '2019-06-05'
-  address: 24 Mistral Avenue, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000198.001
+- council_reference: '008.2023.00000201.001'
+  description: Other - Additional lounge room and terrace
+  date_received: '2023-09-01'
+  address: 118 Prince Albert Street, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000070.001
-- council_reference: '008.2019.00000071.001'
-  description: Alterations and additions to the lower and ground floors of a dwelling
-    house and reconstruction of driveway
-  date_received: '2019-06-06'
-  address: 84 Bay Street, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000201.001
+- council_reference: '008.2023.00000202.001'
+  description: Pools / decks / fencing, Garages, carports and car parking spaces
+  date_received: '2023-09-05'
+  address: 44 Calypso Avenue, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000071.001
-- council_reference: '008.2019.00000072.001'
-  description: Demolition of Allan Border Sports Pavillion,
-  date_received: '2019-06-06'
-  address: Myahgah Road, MOSMAN NSW 2088
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000202.001
+- council_reference: '008.2023.00000208.001'
+  description: Alterations and additions to residential development
+  date_received: '2023-09-01'
+  address: 6 Upper Spit Road, MOSMAN NSW 2088
   date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000072.001
-- council_reference: '008.2019.00000073.001'
-  description: Multiple Dwelling – Alterations/Addition
-  date_received: '2019-06-06'
-  address: 65 The Esplanade, MOSMAN NSW 2088
-  date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000073.001
-- council_reference: '008.2019.00000074.001'
-  description: Demolition;
-  date_received: '2019-06-06'
-  address: 19 Thompson Street, MOSMAN NSW 2088
-  date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000074.001
-- council_reference: '008.2019.00000075.001'
-  description: Subdivision Torrens
-  date_received: '2019-06-06'
-  address: 41 Prince Street, MOSMAN NSW 2088
-  date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000075.001
-- council_reference: '008.2019.00000076.001'
-  description: Alterations and additions
-  date_received: '2019-06-06'
-  address: 16 Upper Avenue Road, MOSMAN NSW 2088
-  date_scraped: '2019-05-15'
-  info_url: http://portal.mosman.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=008.2019.00000076.001
+  info_url: https://portal.mosman.nsw.gov.au/pages/xc.track/SearchApplication.aspx?id=008.2023.00000208.001

@@ -65,7 +65,7 @@ module IconScraper
       period: "last28days"
     },
     mosman: {
-      url: "http://portal.mosman.nsw.gov.au/Pages/XC.Track",
+      url: "https://portal.mosman.nsw.gov.au/pages/xc.track",
       period: "last14days",
       types: [8, 5]
     },
