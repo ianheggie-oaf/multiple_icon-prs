@@ -38,7 +38,7 @@ module IconScraper
       period: "thismonth"
     },
     gosnells: {
-      url: "http://apps.gosnells.wa.gov.au/ICON/Pages/XC.Track",
+      url: "https://apps.gosnells.wa.gov.au/Pages/XC.Track",
       period: "last14days"
     },
     hobart: {
