@@ -87,14 +87,6 @@ module IconScraper
       period: "last28days",
       types: %w[DA DevApp]
     },
-    redland: {
-      url: "http://pdonline.redland.qld.gov.au/Pages/XC.Track",
-      period: "last14days",
-      types: %w[
-        BD BW BA MC MCU OPW BWP APS
-        MCSS OP EC SB SBSS PD BX ROL QRAL
-      ]
-    },
     richmond_valley: {
       url: "http://datracker.richmondvalley.nsw.gov.au/Pages/XC.Track",
       period: "last28days"
