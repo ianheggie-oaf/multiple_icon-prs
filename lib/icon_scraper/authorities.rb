@@ -95,11 +95,6 @@ module IconScraper
       url: "https://srr-prod-icon.saas.t1cloud.com/Pages/XC.Track",
       period: "last28days"
     },
-    swan: {
-      url: "https://elodge.swan.wa.gov.au/Pages/XC.Track",
-      types: [282, 281, 283],
-      period: "thisweek"
-    },
     tweed: {
       url: "https://s1.tweed.nsw.gov.au/Pages/XC.Track",
       period: "thismonth",
