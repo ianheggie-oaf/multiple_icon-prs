@@ -14,7 +14,8 @@ module IconScraper
     boroondara: {
       url: "https://eservices.boroondara.vic.gov.au/EPlanning/Pages/XC.Track",
       period: "thismonth",
-      types: %w[PlnPermit PlnAppeals PlnPostPer PlanPermGr PlanAmend PlanAppeal]
+      types: %w[PlnPermit PlnAppeals PlnPostPer PlanPermGr PlanAmend PlanAppeal],
+      australian_proxy: true
     },
     canada_bay: {
       url: "https://canadabay-eplanning.t1cloud.com/Pages/XC.Track",
