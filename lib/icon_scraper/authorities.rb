@@ -42,12 +42,6 @@ module IconScraper
       url: "https://apps.gosnells.wa.gov.au/Pages/XC.Track",
       period: "last14days"
     },
-    hobart: {
-      url: "https://apply.hobartcity.com.au/Pages/XC.Track",
-      period: "last14days",
-      types: ["PLN"],
-      australian_proxy: true
-    },
     hornsby: {
       url: "http://hscenquiry.hornsby.nsw.gov.au/Pages/XC.Track",
       period: "last14days",
