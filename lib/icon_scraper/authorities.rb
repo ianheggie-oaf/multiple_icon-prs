@@ -48,11 +48,6 @@ module IconScraper
       types: ["PLN"],
       australian_proxy: true
     },
-    hornsby: {
-      url: "http://hscenquiry.hornsby.nsw.gov.au/Pages/XC.Track",
-      period: "last14days",
-      ssl_verify: false
-    },
     kyogle: {
       url: "https://etrack.kyogle.nsw.gov.au/Pages/XC.Track",
       period: "last28days"
