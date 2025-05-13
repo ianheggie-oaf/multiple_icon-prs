@@ -14,7 +14,7 @@ module IconScraper
     params = AUTHORITIES[authority]
     raise "Unexpected authority: #{authority}" if params.nil?
 
-    scrape_with_params(params) do |record|
+    scrape_with_params(**params) do |record|
       yield record
     end
   end
